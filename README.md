@@ -1,0 +1,2 @@
+# FindFirstCharInStr
+在字符串中寻找第一个出现一次的字符的下标
